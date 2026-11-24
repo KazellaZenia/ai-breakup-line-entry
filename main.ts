@@ -1,3 +1,4 @@
+// Entry for make.fun's "Dear Human: The AI Breakup Line" bounty.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
